@@ -1,8 +1,8 @@
 package Gabriella;
 
 public class BankAccount {
-    String Owner;
-    Float Balance;
+    private String Owner;
+    private Float Balance;
 
     //constructor******************************
     public BankAccount(String owner, Float balance) {
